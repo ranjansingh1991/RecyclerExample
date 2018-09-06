@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Recycler Example</string>
+    <string name="heart">heart</string>
+</resources>
